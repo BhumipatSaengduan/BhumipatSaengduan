@@ -52,7 +52,7 @@ AI Engineer Intern @ Kinsei Sangyo Co., Ltd. (Japan) [Dec 2025 - May 2026] | Ava
 `PySpark` `Google Cloud Platform` `Microsoft Azure` `PostgreSQL` `MySQL`  `SQLite` `Pandas` `NumPy`
 
 **Backend & DevOps**  
-`FastAPI` `TypeScript` `Docker` `REST API` `Fast API` `Postman`
+`TypeScript` `Docker` `REST API` `Fast API` `Postman`
 
 **Visualization**  
 `Streamlit` `Plotly` `Power BI`
