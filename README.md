@@ -41,6 +41,9 @@ AI Engineer Intern @ Kinsei Sangyo Co., Ltd. (Japan) [Dec 2025 - May 2026] | Ava
 
 ## Tech Stack
 
+**Languages**
+`Python` `SQL` `TypeScript` `Java` `C/C++`
+
 **AI / ML**  
 `PyTorch` `Mask R-CNN` `YOLOv8` `XGBoost` `scikit-learn` `MLflow` `Ollama` `ChromaDB`
 
