@@ -2,7 +2,7 @@
 
 **AI Engineer · Data Engineer · Data Scientist**  
 Integrated Engineering, Chiang Mai University (GPA 3.69)  
-6 months hands-on experience in Japan 🇯🇵 | JLPT N4
+6 months hands-on experience in Japan 🇯🇵 | TOEIC 730 & JLPT N4
 
 ---
 
