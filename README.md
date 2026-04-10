@@ -60,4 +60,4 @@ AI Engineer Intern @ Kinsei Sangyo Co., Ltd. (Japan) [Dec 2025 - May 2026] | Ava
 
 ---
 
-📫 saengduan.bhumipat@gmail.com &nbsp;|&nbsp; 📍 Chiang Mai - Bangkok, Thailand
+📫 saengduan.bhumipat@gmail.com &nbsp;|&nbsp; 📍 Thailand
