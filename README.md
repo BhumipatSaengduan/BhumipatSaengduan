@@ -11,7 +11,7 @@ Integrated Engineering, Chiang Mai University (GPA 3.69)
 ### 🏭 [Industrial Waste Intelligence Platform](https://github.com/BhumipatSaengduan/industrial-waste-intelligence)
 > End-to-end AI platform for waste composition analysis at a Japanese incineration facility
 
-- 🔍 **Mask R-CNN** (ResNet-50 FPN) - instance segmentation, 5 waste classes, 481 images - mAP@0.5 75.6%
+- 🔍 **Mask R-CNN** (ResNet-50 FPN) - instance segmentation, 5 waste classes, 481 images - mask mAP@0.5 75.6%
 - 📊 **PySpark + GCP** - ETL pipeline from Cloud Storage to PostgreSQL
 - 📈 **XGBoost + MLflow** - 30-day waste volume forecasting with experiment tracking
 - 🚨 **Isolation Forest** - automated anomaly detection
