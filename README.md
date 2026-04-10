@@ -1,0 +1,63 @@
+# Bhumipat Saengduan
+
+**AI Engineer · Data Engineer · Data Scientist**  
+Integrated Engineering, Chiang Mai University (GPA 3.69)  
+6 months hands-on experience in Japan 🇯🇵 | JLPT N4
+
+---
+
+## Featured Projects
+
+### 🏭 [Industrial Waste Intelligence Platform](https://github.com/BhumipatSaengduan/industrial-waste-intelligence)
+> End-to-end AI platform for waste composition analysis at a Japanese incineration facility
+
+- 🔍 **Mask R-CNN** (ResNet-50 FPN) - instance segmentation, 5 waste classes, 481 images - mAP@0.5 75.6%
+- 📊 **PySpark + GCP** - ETL pipeline from Cloud Storage to PostgreSQL
+- 📈 **XGBoost + MLflow** - 30-day waste volume forecasting with experiment tracking
+- 🚨 **Isolation Forest** - automated anomaly detection
+- 🤖 **Ollama + ChromaDB** - local LLM with RAG, auto-scheduled daily/weekly reports
+- 🐳 **Docker Compose** - fully containerized (FastAPI + Streamlit + Ollama)
+
+---
+
+### 📦 [Waste Segmentation Dashboard](https://github.com/BhumipatSaengduan/waste-segmentation-dashboard)
+> AI-powered waste composition analysis - proof of concept deployed at Kinsei Sangyo
+
+- 🔍 **YOLOv8** - real-time waste segmentation, mask mAP@0.5 77.5%
+- 📊 **Streamlit** - interactive dashboard with daily/weekly trend visualization
+- 🗄️ **SQLite** - batch processing with historical tracking
+
+---
+
+### 📚 [Bookstore REST API](https://github.com/BhumipatSaengduan/Book-Store) *(Backend)*
+> Full backend system for a book e-commerce platform
+
+- ⚙️ **TypeScript + Express.js** - REST API with JWT + Google OAuth authentication
+- 🛒 Book inventory, cart, wishlist, search, and category filtering
+- 🗄️ **PostgreSQL + Drizzle ORM** - relational schema design and migrations
+- 🐳 **Docker Compose** - containerized local development environment
+
+---
+
+## Tech Stack
+
+**AI / ML**  
+`PyTorch` `Mask R-CNN` `YOLOv8` `XGBoost` `scikit-learn` `MLflow` `Ollama` `ChromaDB`
+
+**Data Engineering**  
+`PySpark` `GCP` `PostgreSQL` `SQLite` `Pandas` `NumPy`
+
+**Backend & DevOps**  
+`FastAPI` `Express.js` `TypeScript` `Docker` `REST API`
+
+**Visualization**  
+`Streamlit` `Plotly` `Power BI`
+
+---
+
+## Languages
+🇹🇭 Thai (Native) · 🇬🇧 English TOEIC 730 · 🇯🇵 Japanese JLPT N4 (preparing N3)
+
+---
+
+📫 saengduan.bhumipat@gmail.com &nbsp;|&nbsp; 📍 Chiang Mai, Thailand
