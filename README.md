@@ -1,6 +1,6 @@
 # Bhumipat Saengduan
 
-**AI Engineer · Data Scientist · Data Analyst**  
+**AI Engineer · Data Scientist · Data Engineer**  
 Integrated Engineering, Chiang Mai University (GPA 3.69)  
 AI Engineer Intern @ Kinsei Sangyo Co., Ltd. (Japan) [Dec 2025 - May 2026] | Available August 2026
 
