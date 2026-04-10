@@ -12,7 +12,7 @@ AI Engineer Intern @ Kinsei Sangyo Co., Ltd. (Japan) [Dec 2025 - May 2026] | Ava
 > End-to-end AI platform for waste composition analysis at a Japanese incineration facility
 
 - 🔍 **Mask R-CNN** (ResNet-50 FPN) - instance segmentation, 5 waste classes, 481 images - mask mAP@0.5 75.6%
-- 📊 **PySpark + GCP** - ETL pipeline from Cloud Storage to PostgreSQL
+- 📊 **PySpark + GCP** - data pipeline from Cloud Storage to PostgreSQL
 - 📈 **XGBoost + MLflow** - 30-day waste volume forecasting with experiment tracking
 - 🚨 **Isolation Forest** - automated anomaly detection
 - 🤖 **Ollama + ChromaDB** - local LLM with RAG, auto-scheduled daily/weekly reports
@@ -52,7 +52,7 @@ AI Engineer Intern @ Kinsei Sangyo Co., Ltd. (Japan) [Dec 2025 - May 2026] | Ava
 `PySpark` `Google Cloud Platform (GCP)` `Microsoft Azure` `PostgreSQL` `MySQL`  `SQLite` `Pandas` `NumPy`
 
 **Backend & DevOps**  
-`TypeScript` `Docker` `REST API` `Fast API` `Express.js`
+`Docker` `REST API` `Fast API` `Express.js`
 
 **Visualization**  
 `Streamlit` `Plotly` `Power BI`
