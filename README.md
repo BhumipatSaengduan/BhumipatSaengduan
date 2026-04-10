@@ -2,7 +2,7 @@
 
 **AI Engineer · Data Engineer · Data Scientist**  
 Integrated Engineering, Chiang Mai University (GPA 3.69)  
-6 months hands-on experience in Japan 🇯🇵 | TOEIC 730 & JLPT N4
+AI Engineer Intern @ Kinsei Sangyo Co., Ltd. (Japan) [Dec 2025 - May 2026] | Available August 2026
 
 ---
 
