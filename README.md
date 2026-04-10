@@ -21,7 +21,7 @@ Integrated Engineering, Chiang Mai University (GPA 3.69)
 ---
 
 ### 📦 [Waste Segmentation Dashboard](https://github.com/BhumipatSaengduan/waste-segmentation-dashboard)
-> AI-powered waste composition analysis - proof of concept deployed at Kinsei Sangyo
+> AI-powered waste composition analysis - proof of concept for Kinsei Sangyo
 
 - 🔍 **YOLOv8** - real-time waste segmentation, mask mAP@0.5 77.5%
 - 📊 **Streamlit** - interactive dashboard with daily/weekly trend visualization
