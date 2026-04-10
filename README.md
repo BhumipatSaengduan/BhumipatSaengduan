@@ -60,4 +60,4 @@ Integrated Engineering, Chiang Mai University (GPA 3.69)
 
 ---
 
-📫 saengduan.bhumipat@gmail.com &nbsp;|&nbsp; 📍 Chiang Mai, Thailand
+📫 saengduan.bhumipat@gmail.com &nbsp;|&nbsp; 📍 Chiang Mai - Bangkok, Thailand
